@@ -1,6 +1,8 @@
 jQuery Combo Box Plugin
 =======================
 
+### THIS COMBOBOX IS HIGHLY SPECIFIC AND WILL NOT WORK FOR YOU ###
+
 What is it?
 ----------
 Turns a `<input type="text">` into a [combo box](http://en.wikipedia.org/wiki/Combo_box).
