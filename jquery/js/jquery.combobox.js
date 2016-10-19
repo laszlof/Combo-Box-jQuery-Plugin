@@ -148,8 +148,10 @@
       var selectOptions = [];
       this.selectedIndex = -1;
       var i;
+      // escape for regex
+      var input = startingLetters.toLowerCase().replace(/[\-\[\]{}()*+?.,\\\^$|#\s]/g, "\\$&");
       for (i = 0; i < this.allSelectOptions.length; i++) {
-        if (startingLetters.length && this.allSelectOptions[i].toLowerCase().match(new RegExp("\\b"+startingLetters.toLowerCase(), 'g'))) {
+        if (startingLetters.length && this.allSelectOptions[i].toLowerCase().match(new RegExp("\\b" + input, 'g'))) {
           selectOptions.push(this.allSelectOptions[i]);
         }
       }
