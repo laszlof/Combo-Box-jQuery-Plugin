@@ -122,8 +122,6 @@
           e.preventDefault();
         }
         thisSelector.combobox.focus();
-      } else if (e.keyCode == Combobox.keys.TAB) {
-        thisSelector.hide();
       }
     };
 
