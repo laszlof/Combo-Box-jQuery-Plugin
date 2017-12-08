@@ -1,0 +1,15 @@
+{
+  "name": "jquery-combobox-plugin",
+  "version": "0.5.1",
+  "description": "jQuery plugin for converting a text input field into a combo box. ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laszlof/Combo-Box-jQuery-Plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laszlof/Combo-Box-jQuery-Plugin/issues"
+  },
+  "homepage": "https://github.com/laszlof/Combo-Box-jQuery-Plugin"
+}
