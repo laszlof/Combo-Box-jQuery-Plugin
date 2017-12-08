@@ -1,6 +1,6 @@
 {
   "name": "jquery-combobox-plugin",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "jQuery plugin for converting a text input field into a combo box. ",
   "repository": {
     "type": "git",
