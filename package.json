@@ -4,12 +4,12 @@
   "description": "jQuery plugin for converting a text input field into a combo box. ",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laszlof/Combo-Box-jQuery-Plugin.git"
+    "url": "git+https://github.com/nocworx/Combo-Box-jQuery-Plugin.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/laszlof/Combo-Box-jQuery-Plugin/issues"
+    "url": "https://github.com/nocworx/Combo-Box-jQuery-Plugin/issues"
   },
-  "homepage": "https://github.com/laszlof/Combo-Box-jQuery-Plugin"
+  "homepage": "https://github.com/nocworx/Combo-Box-jQuery-Plugin"
 }
